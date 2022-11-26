@@ -59,6 +59,9 @@ p{
     color: #BDC1C4;
     font-size: 15px;
 }
+span{
+    letter-spacing: -1px;
+}
 @media (max-width: 375px ) {
     .sub-fondo{
         background-color: #D5E1EF;
